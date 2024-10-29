@@ -41,9 +41,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>  <br/>
 
 <div align="center">
-  <p><img align="left" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" /></p>
+  <p><img align="left" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" /></p>
 
-  <p>&nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu- 
+  <p>&nbsp;<img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu- 
   kasana" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veepanshu-kasana&&theme=tokyonight" alt="veepanshu-kasana" /></p>
