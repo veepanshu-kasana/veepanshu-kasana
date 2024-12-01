@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Veepanshu Kasana</h1>
-<h3 align="center">A passionate Mern Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veepanshu-kasana&label=Profile%20views&color=0e75b6&style=flat" alt="veepanshu-kasana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kasanaveepanshu" target="blank"><img src="https://img.shields.io/twitter/follow/kasanaveepanshu?logo=twitter&style=for-the-badge" alt="kasanaveepanshu" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Mern Development**
 
@@ -42,7 +42,6 @@
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=veepanshu-kasana">
    <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -51,7 +50,6 @@
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
    </div>
-  </a>
 </details>
 
 <div align="center">
