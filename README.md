@@ -51,6 +51,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 </details>
+[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/veepanshu-kasana?year=2024Extd)](https://gssoc.girlscript.tech)
 
 <div align="center">
   <p><img align="left" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" /></p>
