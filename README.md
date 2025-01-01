@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Veepanshu Kasana</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer and Open-Source Contributor from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veepanshu-kasana&label=Profile%20views&color=0e75b6&style=flat" alt="veepanshu-kasana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kasanaveepanshu" target="blank"><img src="https://img.shields.io/twitter/follow/kasanaveepanshu?logo=twitter&style=for-the-badge" alt="kasanaveepanshu" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **CodeVerse EdTech Platform**
 
-- 🌱 I’m currently learning **Mern Development**
+- 🌱 I’m currently mastering **MERN Stack Development**
 
-- 💬 Ask me about **Development, Data Structures & Algorithms, Linux**
+- 💬 Ask me about **MERN, DSA, Linux, and Open-Source Contributions**
 
 - 📫 How to reach me **veepanshukasana2728@gmail.com**
+
+- 🌟 Fun fact: **I ranked #265 in GSSoC'24 Extd and love solving DSA problems (175+ solved)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +46,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>  <br/>
 
 <details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+ <summary><b>GSSoC'24 Achievements 🪶</b></summary><br>
    <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
       <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
