@@ -76,11 +76,10 @@
 
 ## GitHub Stats
 <div align="center">
-  <p><img align="left" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" /></p>
-
-  <p>&nbsp;<img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu- 
-  kasana" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veepanshu-kasana&&theme=tokyonight" alt="veepanshu-kasana" /></p>
-
+<div>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu-kasana" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" />
+</div>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=veepanshu-kasana&&theme=tokyonight" alt="veepanshu-kasana" />
 </div>
