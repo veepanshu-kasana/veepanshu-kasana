@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veepanshu-kasana&label=Profile%20views&color=0e75b6&style=flat" alt="veepanshu-kasana" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kasanaveepanshu" target="blank"><img src="https://img.shields.io/twitter/follow/kasanaveepanshu?logo=twitter&style=for-the-badge" alt="kasanaveepanshu" /></a> </p>
+<p align="left"> <a href="x.com/kasanaveepanshu" target="blank"><img src="https://img.shields.io/twitter/follow/kasanaveepanshu?logo=twitter&style=for-the-badge" alt="kasanaveepanshu" /></a> </p>
 
 - 🔭 I’m currently working on **CodeVerse EdTech Platform**
 
