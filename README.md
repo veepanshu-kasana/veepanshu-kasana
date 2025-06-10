@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **veepanshukasana2728@gmail.com**
 
-- 🌟 Fun fact: **I ranked #265 in GSSoC'24 Extd among 3,900+ contributors and solved 175+ DSA problems!**
+- 🌟 Fun fact: **I ranked #265 in GSSoC'24 Extd among 3,900+ contributors and have solved 175+ DSA problems across coding platforms!**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="https://twitter.com/kasanaveepanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasanaveepanshu" height="30" width="40" /></a>
+<a href="https://x.com/kasanaveepanshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="kasanaveepanshu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/veepanshu-kasana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veepanshu-kasana" height="30" width="40" /></a>
-<a href="https://discord.gg/797045812763951104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="797045812763951104" height="35" width="45" /></a>
+<a href="https://www.naukri.com/code360/profile/6c0a9b49-c367-4a86-afba-66e85023db74" target="blank"><img align="center" src="https://files.codingninjas.in/pl-ninja-16706.svg" alt="veepanshu_kasana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veepanshu_kasana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veepanshu_kasana" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/veepanshukfvw6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="veepanshukfvw6" height="30" width="40" /></a>
 <a href="https://instagram.com/veepanshu_kasana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veepanshu_kasana" height="30" width="40" /></a>
@@ -74,12 +74,13 @@
    </div>
 </details>
 
-## GitHub Stats
+## GitHub Stats:
 <div align="center">
-<div>
-  <img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu-kasana" />
-  <img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" />
-</div>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veepanshu-kasana&&theme=tokyonight" alt="veepanshu-kasana" />
+  <p><img align="left" width="460px"  src="https://github-readme-streak-stats.herokuapp.com/?user=veepanshu-kasana&&theme=tokyonight" alt="veepanshu-kasana" /></p>
+ 
+  <p>&nbsp;<img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=veepanshu-kasana&show_icons=true&locale=en&theme=tokyonight" alt="veepanshu- 
+  kasana" /></p>
+
+  <p><img align="center" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=veepanshu-kasana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="veepanshu-kasana" /></p>
+
 </div>
